@@ -17,20 +17,20 @@ Este proyecto tiene como objetivo desarrollar una unidad didáctica en Google Cl
 Cada una de las siguientes secciones contiene información y un ejercicio en Turtle Python relacionado con una especie en peligro de extinción. Al hacer clic en cada especie, podrás acceder a su descripción y al código correspondiente.
 
 - [Vaquita Marina](especies/Vaquita_Marina.py)
-- [Black Howler Monkey](especies/Black_Howler_Monkey)
-- [Andean Condor](especies/rinoceronte_de_java.md)
-- [Jaguar](especies/tortuga_carey.md)
-- [Manatee](especies/gorila_de_montana.md)
-- [Giant Anteater](especies/elefante_asiatico.md)
-- [Hyacinth Macaw](especies/leopardo_de_las_nieves.md)
-- [Spider Monkey](especies/panda_gigante.md)
-- [Pink River Dolphin](especies/vaquita_marina.md)
-- [Gran Chaco Peccary](especies/ballena_azul.md)
-- [Helmeted Curassow](especies/vaquita_marina.md)
-- [Titicaca Water Frog](especies/ballena_azul.md)
-- [Yellow-eared Parrot ](especies/vaquita_marina.md)
+- [Black Howler Monkey](especies/black_howler_monkey.py)
+- [Andean Condor](especies/andean_condor.py)
+- [Jaguar](especies/jaguar.py)
+- [Manatee](especies/manatee.py)
+- [Giant Anteater](especies/giant_anteater.py)
+- [Hyacinth Macaw](especies/hyacinth.macaw.py)
+- [Spider Monkey](especies/spider_monkey.py)
+- [Pink River Dolphin](especies/pink_river_dolphin.py)
+- [Gran Chaco Peccary](especies/gran_chaco_peccary.py)
+- [Helmeted Curassow](especies/helmeted_curassow.py)
+- [Titicaca Water Frog](especies/titicaca_water_frog.py)
+- [Yellow-eared Parrot ](especies/yellow_eared_parrot.py)
 - [Royal Cinclodes ](especies/ballena_azul.md)
-- [Marsh Deer](especies/vaquita_marina.md)
+- [Marsh Deer](especies/marsh_deer.py)
 
 
 ## Contribuciones
